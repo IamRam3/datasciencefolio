@@ -1,7 +1,7 @@
-import React, {Component } from "react";
+import React, { Component } from "react";
 // import React, {useRef,useEffect,Component } from "react";
 // import lottie from 'lottie-web';
-import data from "./web.svg"
+import data from "./softwareEngineer.png";
 // export default function FullStackImg(){
 //     const container = useRef(null)
 //     useEffect(() => {
@@ -20,18 +20,17 @@ import data from "./web.svg"
 //     );
 // }
 
-
 //for static images
 class FullStackImg extends Component {
-    render() {
-      return (
-        <div className="App">
-          <div className="container">
-        <img src={data} alt="" width="450"/>
+  render() {
+    return (
+      <div className="App">
+        <div className="container">
+          <img src={data} alt="" width="450" />
         </div>
-        </div>
-      );
-    }
+      </div>
+    );
   }
-  
-  export default FullStackImg;
+}
+
+export default FullStackImg;
