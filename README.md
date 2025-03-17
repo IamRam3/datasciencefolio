@@ -18,7 +18,7 @@
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
 <p align="center"> 
-    <a href="https://rohankokkula.netlify.app" target="_blank">
+    <a href="https://ramdhavileswarapu.netlify.app" target="_blank">
     <img src="repo_images/landing.PNG"></img>
   </a>
 </p>
@@ -30,7 +30,7 @@
 ✔️ Projects\
 ✔️ Contact\
 <br>
-To view a live example, **[click here](https://rohankokkula.netlify.app/)**
+To view a live example, **[click here](https://ramdhavileswarapu.netlify.app/)**
 
 # Clone And Use 📋
 
@@ -127,7 +127,7 @@ So basically I demonstrated 2 types of visual graphics.
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://rohankokkula.netlify.app), you can see the logo at the beginning.
+Note here that if you click [my portfolio](https://ramdhavileswarapu.netlify.app), you can see the logo at the beginning.
 
 - You can open `src/portfolio.js` file and at the top of this file you will see `settings` component as below:
 - ```python
