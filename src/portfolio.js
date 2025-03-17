@@ -19,7 +19,8 @@ const greeting = {
   title: "Namaste!",
   sub: "Ram Dhavileswarapu",
   logo_name: "Ram Dhavileswarapu",
-  resumeLink: "",
+  resumeLink:
+    "https://github.com/IamRam3/side-projects/blob/main/resume/ram_cv.pdf",
 };
 
 // home logos
@@ -212,8 +213,6 @@ const projectcards = {
           color: "#3c0095",
         },
       ],
-      link: " ",
-      code: "",
       linkcolor: "white",
     },
 
@@ -248,7 +247,6 @@ const projectcards = {
           color: "#ff4b4b",
         },
       ],
-      link: "",
       code: "https://github.com/IamRam3/MHR_classification",
       linkcolor: "white",
     },
@@ -275,8 +273,6 @@ const projectcards = {
           color: "#ff4b4b",
         },
       ],
-      link: "",
-      code: "",
       linkcolor: "white",
     },
     {
@@ -302,7 +298,6 @@ const projectcards = {
           color: "#004782",
         },
       ],
-      link: "",
       code:
         "https://github.com/IamRam3/side-projects/blob/main/research%20papers/Vision_Transformer.ipynb",
       linkcolor: "white",
@@ -338,7 +333,6 @@ const projectcards = {
           color: "#ff4b4b",
         },
       ],
-      link: "",
       code:
         "https://github.com/IamRam3/side-projects/blob/main/fun%20proj's/RAG_with_AI_Agents.ipynb",
       linkcolor: "white",
