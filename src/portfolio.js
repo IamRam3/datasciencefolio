@@ -219,10 +219,14 @@ const projectcards = {
 
     {
       title: "Maternal Health Risk Classification",
-      img_path: "maternal_health2.jpeg",
+      img_path: "maternal_health2_r.jpeg",
       description:
         "A basic Flask App for classifying health based on Age, BP, Blood Sugar, Body Temperature & Heart Rate",
       tags: [
+        {
+          lang: "End-to-End",
+          color: "#8700b0",
+        },
         {
           lang: "pandas",
           color: "red",
@@ -276,8 +280,36 @@ const projectcards = {
       linkcolor: "white",
     },
     {
+      title: "Vision Transformer from scratch",
+      img_path: "Vision_Transformer.gif",
+      description:
+        "An implementation of 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'",
+      tags: [
+        {
+          lang: "Research Paper",
+          color: "red",
+        },
+        {
+          lang: "Pytorch",
+          color: "#8700b0",
+        },
+        {
+          lang: "Google colab",
+          color: "#4257f5",
+        },
+        {
+          lang: "Python",
+          color: "#004782",
+        },
+      ],
+      link: "",
+      code:
+        "https://github.com/IamRam3/side-projects/blob/main/research%20papers/Vision_Transformer.ipynb",
+      linkcolor: "white",
+    },
+    {
       title: "RAG with AI Agents",
-      img_path: "rag_with_Agents.gif",
+      img_path: "Agentic-RAG-Banner.png",
       description:
         "A basic LLM chat application to save API calls by keeping frequent queries in vector DB & retrieving them. And also getting latest info from internet when prompted with research.",
       tags: [
@@ -309,34 +341,6 @@ const projectcards = {
       link: "",
       code:
         "https://github.com/IamRam3/side-projects/blob/main/fun%20proj's/RAG_with_AI_Agents.ipynb",
-      linkcolor: "white",
-    },
-    {
-      title: "Vision Transformer from scratch",
-      img_path: "Vision_Transformer.gif",
-      description:
-        "An implementation of 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'",
-      tags: [
-        {
-          lang: "Research Paper",
-          color: "red",
-        },
-        {
-          lang: "Pytorch",
-          color: "#8700b0",
-        },
-        {
-          lang: "Google colab",
-          color: "#4257f5",
-        },
-        {
-          lang: "Python",
-          color: "#004782",
-        },
-      ],
-      link: "",
-      code:
-        "https://github.com/IamRam3/side-projects/blob/main/research%20papers/Vision_Transformer.ipynb",
       linkcolor: "white",
     },
   ],
@@ -374,7 +378,13 @@ const resumeright = {
           title: "Pre-University Education",
           subtitle: "Aditya Jr. College, Mandapeta",
           date: "2018 - 2020",
-          content: ["Precentage: 92%"],
+          content: ["CGPA: 9.4/10"],
+        },
+        {
+          title: "SSC",
+          subtitle: "S.V.N, Angara",
+          date: "2017 - 2018",
+          content: ["CGPA: 10/10"],
         },
       ],
     },
@@ -408,6 +418,22 @@ const certifications = {
       logo_path: "udemy.png",
       certificate_link:
         "https://www.udemy.com/certificate/UC-2c4e1ee9-fb90-4162-8f18-31dd3c7aeb55/",
+      alt_name: "HackerRank",
+      color_code: "#000000",
+    },
+    {
+      title: "Python",
+      subtitle: "HackerRank",
+      logo_path: "python_badge-Photoroom.png",
+      certificate_link: "https://www.hackerrank.com/profile/sairamd1905",
+      alt_name: "HackerRank",
+      color_code: "#000000",
+    },
+    {
+      title: "SQL",
+      subtitle: "HackerRank",
+      logo_path: "sql_badge-Photoroom.png",
+      certificate_link: "https://www.hackerrank.com/profile/sairamd1905",
       alt_name: "HackerRank",
       color_code: "#000000",
     },
