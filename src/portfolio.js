@@ -411,7 +411,7 @@ const certifications = {
       subtitle: "Coursera",
       logo_path: "University of Alberta.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/XGU1TJ7ELMOH",
+        "https://www.coursera.org/account/accomplishments/verify/JG7GXJ3XQH3O",
       alt_name: "Tableau",
       color_code: "#000000",
     },
