@@ -64,8 +64,7 @@ const competitiveSites = {
       style: {
         color: "#0077b5",
       },
-      profileLink:
-        "https://www.linkedin.com/in/veera-venkata-sai-ram-dhavileswarapu-4ab502250/",
+      profileLink: "https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/",
     },
   ],
 };
