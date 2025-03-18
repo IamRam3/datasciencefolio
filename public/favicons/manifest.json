@@ -1,5 +1,5 @@
 {
-  "name": "ramDhavileswarapu",
+  "name": "Ram Dhavileswarapu | Portfolio",
   "background_color": "#ffffff",
   "display": "standalone",
   "icons": [
@@ -40,7 +40,7 @@
       "density": "4.0"
     }
   ],
-  "short_name": "ramDhavileswarapu",
+  "short_name": "Ram Dhavileswarapu | Portfolio",
   "start_url": ".",
   "theme_color": "#000000"
 }
