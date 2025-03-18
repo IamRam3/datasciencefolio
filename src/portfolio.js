@@ -407,6 +407,15 @@ const certifications = {
       color_code: "#000000",
     },
     {
+      title: "Reinforcement Learning",
+      subtitle: "Coursera",
+      logo_path: "University of Alberta.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/XGU1TJ7ELMOH",
+      alt_name: "Tableau",
+      color_code: "#000000",
+    },
+    {
       title: "Complete Machine Learning, NLP Bootcamp MLOPS & Deployment",
       subtitle: "Udemy",
       logo_path: "udemy.png",
