@@ -10,7 +10,7 @@ const seo = {
   og: {
     title: "Ram's Portfolio",
     type: "website",
-    url: "http://ram.ml/",
+    url: "https://ramdhavileswarapu.netlify.app/home",
   },
 };
 
