@@ -471,8 +471,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link:
-      "https://www.linkedin.com/in/veera-venkata-sai-ram-dhavileswarapu-4ab502250/",
+    link: "https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
