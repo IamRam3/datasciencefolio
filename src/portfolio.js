@@ -272,7 +272,7 @@ const projectcards = {
           color: "#ff4b4b",
         },
       ],
-      linkcolor: "white",
+      code: "https://github.com/IamRam3/Hybrid_ALU",
     },
     {
       title: "Vision Transformer from scratch",
@@ -362,7 +362,7 @@ const resumeright = {
       title: ["Education"],
       data: [
         {
-          title: "Bachelor of Engineering in Information Technology",
+          title: "Bachelor of Engineering in Electronics & Communications",
           subtitle: "Maharaj Vijayaram Gajapathi Raj, Vizianagaram",
           date: "2020 - 2024",
           content: ["CGPA: 8.43/10"],
