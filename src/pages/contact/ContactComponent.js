@@ -12,6 +12,9 @@ import { contactPageData } from "../../portfolio.js";
 const ContactData = contactPageData.contactSection;
 const addressSection = contactPageData.addressSection;
 const phoneSection = contactPageData.phoneSection;
+const aboutMeSection = contactPageData.aboutMeSection;
+const interestSection = contactPageData.interestSection;
+const philosophySection = contactPageData.philosophySection;
 
 class Contact extends Component {
   render() {
@@ -71,6 +74,30 @@ class Contact extends Component {
                 >
                   {phoneSection["subtitle"]}
                 </p>
+                <h1
+                  className="contact-heading-text"
+                  style={{ color: theme.orange }}
+                >
+                  {aboutMeSection["title"]}
+                </h1>
+                <h1
+                  className="address-heading-text"
+                  style={{ color: theme.text }}
+                >
+                  {interestSection["title"]}
+                </h1>
+                <p
+                  className="contact-header-detail-text subTitle"
+                  style={{ color: theme.blue }}
+                >
+                  {interestSection["description"]}
+                </p>
+                <h3
+                  className="address-heading-detail-text"
+                  style={{ color: theme.text }}
+                >
+                  {philosophySection["description"]}
+                </h3>
               </div>
             </div>
           </Fade>

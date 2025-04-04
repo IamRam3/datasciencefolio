@@ -182,7 +182,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them.",
+    "My projects makes use of vast variety of latest technology tools & domains. And I know it might be over-stretch to say, that to work in different domains. But my interest is just like that.",
 };
 
 //project cards
@@ -210,6 +210,10 @@ const projectcards = {
         {
           lang: "Upstox API",
           color: "#3c0095",
+        },
+        {
+          lang: "Full-Stack",
+          color: "#8700b0",
         },
       ],
       linkcolor: "white",
@@ -260,15 +264,15 @@ const projectcards = {
           color: "#004782",
         },
         {
-          lang: "CMOS",
+          lang: "CMOS, PTL, TG",
           color: "#8700b0",
         },
         {
-          lang: "PTL",
+          lang: "Final-year",
           color: "#c47206",
         },
         {
-          lang: "TG",
+          lang: "VLSI Design",
           color: "#ff4b4b",
         },
       ],
@@ -448,7 +452,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "contact.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, Opensource Development.",
+      "I am available on Linkedin & Gmail. You can message me, I will reply within 24 hours. I can help you with AI & Opensource Development.",
   },
   addressSection: {
     title: "Address",
@@ -457,6 +461,17 @@ const contactPageData = {
   phoneSection: {
     title: "Phone Number",
     subtitle: "+91 7989836425",
+  },
+  aboutMeSection: {
+    title: "About Me",
+  },
+  interestSection: {
+    title: "Interest's",
+    description: "Coding, Maths, Physics",
+  },
+  philosophySection: {
+    description:
+      "I believe that Software & Hardware are not much distinguishable from each other. - 'Ram'",
   },
 };
 
