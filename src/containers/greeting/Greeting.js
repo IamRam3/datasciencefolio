@@ -47,10 +47,9 @@ export default function Greeting(props) {
                 style={{ color: theme.text }}
               >
                 <div className="entities">
-                  A <mark data-entity="noun">Data Science practitioner</mark>{" "}
-                  who thrives to{" "}
-                  <mark data-entity="verb">leverage Startups</mark> using
-                  AI-based solutions.
+                  An <mark data-entity="noun">Engineer</mark> who thrives to{" "}
+                  <mark data-entity="verb">enhance Startups</mark> by solving
+                  real-world problems.
                 </div>
               </span>
               <CompetitiveSites logos={competitiveSites.competitiveSites} />
