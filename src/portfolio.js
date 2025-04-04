@@ -182,7 +182,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools & domains. And I know it might be over-stretch to say, that to work in different domains. But my interest is just like that.",
+    "My projects makes use of vast variety of latest technology tools & domains.",
 };
 
 //project cards
