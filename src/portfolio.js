@@ -337,7 +337,7 @@ const projectcards = {
         },
       ],
       code:
-        "https://github.com/IamRam3/side-projects/blob/main/fun%20proj's/RAG_with_AI_Agents.ipynb",
+        "https://github.com/IamRam3/side-projects/tree/main/fun%20proj's/RAG_with_AI_Agent's",
       linkcolor: "white",
     },
   ],
