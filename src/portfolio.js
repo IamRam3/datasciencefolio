@@ -77,43 +77,79 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Building RAG & AI Agents applications. ",
+        "⚡ Exploring RL Techniques, Robotics & Computer Vision(2D & 3D also). ",
         "⚡ Reading & Implementing Research Paper's.",
+        "⚡ Highly motivated to work with Autonomous & Parallel Processing Systems. ",
         "⚡ Experience of working in Robotics field as an Intern. ",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "Numpy",
+          fontAwesomeClassname: "logos-numpy",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Langchian",
+          fontAwesomeClassname: "simple-icons:langchain",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "ros",
+          fontAwesomeClassname: "simple-icons:ros",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Cuda",
+          iconSrc: "/icons/Nvidia.webp",
+          iconSize: {
+            width: "120px",
+            height: "120px",
+          },
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Scikit-Learn",
+          iconSrc: "/icons/scikit-learn.webp",
+          iconSize: {
+            width: "80px",
+            height: "80px",
+          },
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Pytorch",
+          iconSrc: "/icons/pytorch.webp",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
           skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          iconSrc: "/icons/Python.webp",
           style: {
             backgroundColor: "transparent",
-            color: "#3776AB",
           },
         },
         {
           skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:pandas",
+          iconSrc: "/icons/pandas.webp",
           style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
+            backgroundColor: "black",
           },
         },
         {
-          skillName: "ros",
-          fontAwesomeClassname: "simple-icons:ros",
+          skillName: "HuggingFace",
+          iconSrc: "/icons/huggingface.webp",
           style: {
             backgroundColor: "transparent",
           },
@@ -124,53 +160,70 @@ const skills = {
       title: "Software Engineer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building Scalable Applications.",
+        "⚡ Building Scalable & Distributed Applications.",
         "⚡ Quickly adaptable to new technologies . ",
-        "⚡ Keen interest in System Design. ",
+        "⚡ Can work with Large Codebases. ",
         "⚡ Able to work with different programming Languages.",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
           style: {
-            color: "#E34F26",
+            backgroundColor: "transparent",
+            color: "#00ed64",
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "VSCode",
+          iconSrc: "/icons/vscode.webp",
           style: {
-            color: "#1572B6",
+            backgroundColor: "transparent",
+            color: "#00ed64",
           },
         },
         {
-          skillName: "BootStrap",
-          fontAwesomeClassname: "logos-bootstrap",
+          skillName: "Linux",
+          iconSrc: "/icons/Linux.webp",
           style: {
-            color: "#CC6699",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
+            backgroundColor: "transparent",
+            color: "#f14e32",
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
           style: {
-            color: "#61DAFB",
+            backgroundColor: "transparent",
+            color: "#0db7ed",
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "Cpp",
+          iconSrc: "/icons/cpp.webp",
           style: {
-            color: "#339933",
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Kafka",
+          iconSrc: "/icons/Kafka.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "SQL",
+          iconSrc: "/icons/mysql.webp",
+          style: {
+            backgroundColor: "transparent",
           },
         },
       ],

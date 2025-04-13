@@ -8,13 +8,6 @@ class SoftwareSkill extends React.Component {
       <div>
         <div className="software-skills-main-div">
           <ul className="dev-icons">
-            {/* {skillsSection.softwareSkills.map(skills => {
-            return (
-              <li className="software-skill-inline" name={skills.skillName}>
-                <i className={skills.fontAwesomeClassname}></i>
-              </li>
-            );
-          })} */}
             {this.props.logos.map((logo) => {
               return (
                 <OverlayTrigger
@@ -26,13 +19,30 @@ class SoftwareSkill extends React.Component {
                     </Tooltip>
                   }
                 >
-                  <li className="software-skill-inline" name={logo.skillName}>
-                    <span
-                      className="iconify"
-                      data-icon={logo.fontAwesomeClassname}
-                      style={logo.style}
-                      data-inline="false"
-                    ></span>
+                  <li
+                    className="software-skill-inline"
+                    name={logo.skillName}
+                    style={logo.style}
+                  >
+                    {/* If iconSrc is provided, use <img>. Else use iconify span */}
+                    {logo.iconSrc ? (
+                      <img
+                        src={logo.iconSrc}
+                        alt={logo.skillName}
+                        style={{
+                          width: logo.iconSize?.width || "40px",
+                          height: logo.iconSize?.height || "40px",
+                          objectFit: "contain",
+                          verticalAlign: "middle",
+                        }}
+                      />
+                    ) : (
+                      <span
+                        className="iconify"
+                        data-icon={logo.fontAwesomeClassname}
+                        data-inline="false"
+                      ></span>
+                    )}
                   </li>
                 </OverlayTrigger>
               );
