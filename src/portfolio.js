@@ -405,8 +405,8 @@ const resumeleft = {
         subtitle: "TiHAN(IITH)",
         date: "Dec 2023 - March 2024",
         content: [
-          "Developed a GPU-enabled docker container for ORBSLAM3.",
-          "Developed ROS nodes for communication between drone & local workstation.",
+          'Developed a <mark data-entity="">GPU-enabled</mark> docker container for ORBSLAM3.',
+          'Developed <mark data-entity="">ROS nodes</mark> for communication between drone & local workstation.',
         ],
       },
     ],
@@ -420,7 +420,7 @@ const resumeright = {
       data: [
         {
           title: "Bachelor of Engineering in Electronics & Communications",
-          subtitle: "Maharaj Vijayaram Gajapathi Raj, Vizianagaram",
+          subtitle: "MVGR College of Engineering , Vizianagaram",
           date: "2020 - 2024",
           content: ["CGPA: 8.43/10"],
         },
