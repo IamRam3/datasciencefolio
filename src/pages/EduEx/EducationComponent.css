@@ -159,7 +159,7 @@
   border: 2px solid #1179f7;
 }
 
-mark[data-entity] {
+marks[data-entity] {
   background: none;
   border: 2px solid #888;
   border-radius: 8px;

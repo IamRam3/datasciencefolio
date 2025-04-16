@@ -405,8 +405,8 @@ const resumeleft = {
         subtitle: "TiHAN(IITH)",
         date: "Dec 2023 - March 2024",
         content: [
-          'Developed a <mark data-entity="">GPU-enabled</mark> docker container for ORBSLAM3.',
-          'Developed <mark data-entity="">ROS nodes</mark> for communication between drone & local workstation.',
+          'Developed a <marks data-entity="">GPU-enabled</marks> docker container for ORBSLAM3.',
+          'Developed <marks data-entity="">ROS nodes</marks> for communication between drone & local workstation.',
         ],
       },
     ],
