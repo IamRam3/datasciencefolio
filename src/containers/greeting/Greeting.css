@@ -24,7 +24,7 @@
   flex: 1;
   margin-bottom: 30px;
 }
-.button-greeting-div {
+.button-greeting-div:hover {
   display: flex;
   margin-top: 10px;
   text-align: center;

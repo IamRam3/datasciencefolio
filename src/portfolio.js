@@ -274,7 +274,7 @@ const projectcards = {
 
     {
       title: "Maternal Health Risk Classification",
-      img_path: "maternal_health2_r.jpeg",
+      img_path: "maternal_health.jpg",
       description:
         "A basic Flask App for classifying health based on Age, BP, Blood Sugar, Body Temperature & Heart Rate",
       tags: [
