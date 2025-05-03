@@ -73,7 +73,7 @@ const competitiveSites = {
 const skills = {
   data: [
     {
-      title: "Data Science & Robotics",
+      title: "AI & Robotics",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Building RAG & AI Agents applications. ",
