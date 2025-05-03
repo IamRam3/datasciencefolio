@@ -420,7 +420,7 @@ const resumeright = {
       data: [
         {
           title: "Bachelor of Engineering in Electronics & Communications",
-          subtitle: "MVGR College of Engineering , Vizianagaram",
+          subtitle: "MVGR College of Engineering, Vizianagaram",
           date: "2020 - 2024",
           content: ["CGPA: 8.43/10"],
         },
