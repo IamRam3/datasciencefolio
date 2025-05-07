@@ -67,7 +67,7 @@ const competitiveSites = {
       profileLink: "https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/",
     },
     {
-      siteName: "Hugging Face",
+      siteName: "HuggingFace",
       iconifyClassname: "simple-icons:huggingface",
       style: {
         color: "#FFD21E",
@@ -228,7 +228,7 @@ const skills = {
           },
         },
         {
-          skillName: "SQL",
+          skillName: "MySQL",
           iconSrc: "/icons/mysql.webp",
           style: {
             backgroundColor: "transparent",
