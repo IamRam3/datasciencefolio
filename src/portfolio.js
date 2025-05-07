@@ -54,7 +54,7 @@ const competitiveSites = {
       siteName: "GeeksforGeeks",
       iconifyClassname: "simple-icons:geeksforgeeks",
       style: {
-        color: "#323754",
+        color: "#008000",
       },
       profileLink: "https://www.geeksforgeeks.org/user/sairamw7yk/",
     },
@@ -65,6 +65,14 @@ const competitiveSites = {
         color: "#0077b5",
       },
       profileLink: "https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/",
+    },
+    {
+      siteName: "Hugging Face",
+      iconifyClassname: "simple-icons:huggingface",
+      style: {
+        color: "#FFD21E",
+      },
+      profileLink: "https://huggingface.co/iam-ram",
     },
   ],
 };
