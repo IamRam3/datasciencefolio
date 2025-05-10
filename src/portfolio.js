@@ -81,14 +81,13 @@ const competitiveSites = {
 const skills = {
   data: [
     {
-      title: "AI & Robotics",
+      title: "AI & Robotics Engineering",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Building RAG & AI Agents applications. ",
         "⚡ Exploring RL Techniques, Robotics & Computer Vision(2D & 3D also). ",
         "⚡ Reading & Implementing Research Paper's.",
-        "⚡ Highly motivated to work with Autonomous & Parallel Processing Systems. ",
-        "⚡ Experience of working in Robotics field as an Intern. ",
+        "⚡ Working with Autonomous & Parallel Processing Systems. ",
       ],
       softwareSkills: [
         {
@@ -165,13 +164,12 @@ const skills = {
       ],
     },
     {
-      title: "Software Engineer",
+      title: "Software Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building Scalable & Distributed Applications.",
-        "⚡ Quickly adaptable to new technologies . ",
-        "⚡ Can work with Large Codebases. ",
-        "⚡ Able to work with different programming Languages.",
+        "⚡ Adapting to new technologies . ",
+        "⚡ Working with Large Codebases & different Programming Languages. ",
       ],
       softwareSkills: [
         {
