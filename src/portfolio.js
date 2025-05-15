@@ -365,7 +365,7 @@ const projectcards = {
       linkcolor: "white",
     },
     {
-      title: "RAG chatbot",
+      title: "RAG with AI Agent",
       img_path: "Agentic-RAG-Banner.png",
       description:
         "A basic LLM chat application to save API calls by keeping frequent queries in vector DB & retrieving them. And also getting latest info from internet when prompted with research.",
@@ -396,7 +396,7 @@ const projectcards = {
         },
       ],
       code:
-        "https://github.com/IamRam3/side-projects/tree/main/fun%20proj's/RAG_chatbot",
+        "https://github.com/IamRam3/side-projects/tree/main/fun%20proj's/RAG_with_AI_Agent",
       linkcolor: "white",
     },
   ],
