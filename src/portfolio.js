@@ -77,11 +77,172 @@ const competitiveSites = {
   ],
 };
 
-//what i do?
+//what i want to do?
 const skills = {
   data: [
     {
       title: "AI & Robotics Engineering",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Build RAG & AI Agentic applications. ",
+        "⚡ Explore RL Techniques, Robotics & Computer Vision(2D & 3D also). ",
+        "⚡ Read & Implement Research Paper's.",
+        "⚡ Work with Autonomous & High Performance Systems. ",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Numpy",
+          fontAwesomeClassname: "logos-numpy",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Langchian",
+          fontAwesomeClassname: "simple-icons:langchain",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "ros",
+          fontAwesomeClassname: "simple-icons:ros",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Cuda",
+          iconSrc: "/icons/Nvidia.webp",
+          iconSize: {
+            width: "120px",
+            height: "120px",
+          },
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Scikit-Learn",
+          iconSrc: "/icons/scikit-learn.webp",
+          iconSize: {
+            width: "80px",
+            height: "80px",
+          },
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Pytorch",
+          iconSrc: "/icons/pytorch.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          iconSrc: "/icons/Python.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Pandas",
+          iconSrc: "/icons/pandas.webp",
+          style: {
+            backgroundColor: "black",
+          },
+        },
+        {
+          skillName: "HuggingFace",
+          iconSrc: "/icons/huggingface.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+      ],
+    },
+    {
+      title: "Software Development",
+      fileName: "FullStackImg",
+      skills: [
+        "⚡ Build Scalable & Distributed Applications.",
+        "⚡ Adapt to new technologies . ",
+        "⚡ Work with Large Codebases & different Programming Languages. ",
+        "⚡ Optimize applications for performance.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            backgroundColor: "transparent",
+            color: "#00ed64",
+          },
+        },
+        {
+          skillName: "VSCode",
+          iconSrc: "/icons/vscode.webp",
+          style: {
+            backgroundColor: "transparent",
+            color: "#00ed64",
+          },
+        },
+        {
+          skillName: "Linux",
+          iconSrc: "/icons/Linux.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: {
+            backgroundColor: "transparent",
+            color: "#f14e32",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            backgroundColor: "transparent",
+            color: "#0db7ed",
+          },
+        },
+        {
+          skillName: "Cpp",
+          iconSrc: "/icons/cpp.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Kafka",
+          iconSrc: "/icons/Kafka.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "MySQL",
+          iconSrc: "/icons/mysql.webp",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+      ],
+    },
+  ],
+};
+
+// What I do
+const skills2 = {
+  data: [
+    {
+      title: "Open Source Contributor",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Building RAG & AI Agents applications. ",
@@ -478,7 +639,7 @@ const certifications = {
       color_code: "#000000",
     },
     {
-      title: "Complete Machine Learning, NLP Bootcamp MLOPS & Deployment",
+      title: "Machine Learning",
       subtitle: "Udemy",
       logo_path: "udemy.png",
       certificate_link:
@@ -563,6 +724,7 @@ export {
   greeting,
   socialMediaLinks,
   skills,
+  skills2,
   competitiveSites,
   projectsHeader,
   contactPageData,

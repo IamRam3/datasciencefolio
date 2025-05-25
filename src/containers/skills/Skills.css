@@ -83,3 +83,10 @@
     margin-top: 0px;
   }
 }
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px; /* spacing between skill cards */
+}
