@@ -20,7 +20,7 @@ const greeting = {
   sub: "Ram Dhavileswarapu",
   logo_name: "Ram Dhavileswarapu",
   resumeLink:
-    "https://github.com/IamRam3/side-projects/blob/main/resume/ram_cv.pdf",
+    "https://github.com/IamRam3/IamRam3/blob/main/profile/resume/ram_cv.pdf",
 };
 
 // home logos
